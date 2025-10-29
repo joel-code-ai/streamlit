@@ -3,5 +3,5 @@ pandas==2.0.3
 numpy==1.25.2
 plotly==5.15.0
 lasio==0.32
-scipy==1.11.1
+scipy
 distutils
